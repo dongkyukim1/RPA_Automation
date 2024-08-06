@@ -109,20 +109,4 @@
   </tbody>
 </table>
 
-## 설치 및 실행
 
-프로젝트를 로컬에서 실행하는 방법에 대해 설명해주세요.
-
-```bash
-# 프로젝트 클론
-git clone https://github.com/your-repository.git
-
-# 프론트엔드 설치 및 실행
-cd frontend
-npm install
-npm start
-
-# 백엔드 설치 및 실행
-cd backend
-npm install
-npm start
