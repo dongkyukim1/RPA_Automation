@@ -2,6 +2,36 @@
 
 프로젝트 설명을 간단히 적어주세요.
 
+## 팀원 소개
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="팀원1_이미지_URL" width="100px;" alt=""/><br />
+        <sub><b>FE 팀장 : 팀원1</b></sub>
+      </td>
+      <td align="center">
+        <img src="팀원2_이미지_URL" width="100px;" alt=""/><br />
+        <sub><b>FE 팀원 : 팀원2</b></sub>
+      </td>
+      <td align="center">
+        <img src="팀원3_이미지_URL" width="100px;" alt=""/><br />
+        <sub><b>FE 팀원 : 팀원3</b></sub>
+      </td>
+      <td align="center">
+        <img src="팀원4_이미지_URL" width="100px;" alt=""/><br />
+        <sub><b>FE 팀원 : 팀원4</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="팀원5_이미지_URL" width="100px;" alt=""/><br />
+        <sub><b>BE 부팀장 : 팀원5</b></sub>
+      </td>
+  </tbody>
+</table>
+
 ## 기술 스택 갤러리
 
 <table>
@@ -60,44 +90,7 @@
   </tbody>
 </table>
 
-## 팀원 소개
 
-<table>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="팀원1_이미지_URL" width="100px;" alt=""/><br />
-        <sub><b>FE 팀장 : 팀원1</b></sub>
-      </td>
-      <td align="center">
-        <img src="팀원2_이미지_URL" width="100px;" alt=""/><br />
-        <sub><b>FE 팀원 : 팀원2</b></sub>
-      </td>
-      <td align="center">
-        <img src="팀원3_이미지_URL" width="100px;" alt=""/><br />
-        <sub><b>FE 팀원 : 팀원3</b></sub>
-      </td>
-      <td align="center">
-        <img src="팀원4_이미지_URL" width="100px;" alt=""/><br />
-        <sub><b>FE 팀원 : 팀원4</b></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="팀원5_이미지_URL" width="100px;" alt=""/><br />
-        <sub><b>BE 부팀장 : 팀원5</b></sub>
-      </td>
-      <td align="center">
-        <img src="팀원6_이미지_URL" width="100px;" alt=""/><br />
-        <sub><b>BE 팀원 : 팀원6</b></sub>
-      </td>
-      <td align="center">
-        <img src="팀원7_이미지_URL" width="100px;" alt=""/><br />
-        <sub><b>BE 팀원 : 팀원7</b></sub>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 ## 구현 화면
 
